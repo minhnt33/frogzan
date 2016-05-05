@@ -1,0 +1,138 @@
+
+frogzan.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 211
+  size: 633, 795
+  orig: 633, 795
+  offset: 0, 0
+  index: -1
+highscore
+  rotate: false
+  xy: 1, 158
+  size: 299, 51
+  orig: 299, 51
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 636, 959
+  size: 267, 47
+  orig: 267, 47
+  offset: 0, 0
+  index: -1
+ready
+  rotate: false
+  xy: 1, 105
+  size: 203, 51
+  orig: 203, 51
+  offset: 0, 0
+  index: -1
+retry
+  rotate: false
+  xy: 302, 158
+  size: 203, 51
+  orig: 203, 51
+  offset: 0, 0
+  index: -1
+scoreboard
+  rotate: false
+  xy: 636, 917
+  size: 110, 40
+  orig: 110, 40
+  offset: 0, 0
+  index: -1
+boom1
+  rotate: false
+  xy: 1, 1
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+boom2
+  rotate: false
+  xy: 636, 813
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+boom3
+  rotate: false
+  xy: 636, 709
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+boom4
+  rotate: false
+  xy: 636, 605
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+boom5
+  rotate: false
+  xy: 636, 501
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+boom6
+  rotate: false
+  xy: 636, 397
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+boom7
+  rotate: false
+  xy: 636, 293
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+boom8
+  rotate: false
+  xy: 105, 1
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+boom9
+  rotate: false
+  xy: 636, 189
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 507, 149
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+obstacle
+  rotate: false
+  xy: 905, 926
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+frog1
+  rotate: false
+  xy: 206, 126
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+frog2
+  rotate: false
+  xy: 599, 179
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

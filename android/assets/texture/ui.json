@@ -1,0 +1,16 @@
+{
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+		play: { up: play-up, down: play-down },
+                rate: { up: rate-up, down: rate-down },
+                leaderboard: { up: leaderboard-up, down: leaderboard-down },
+			
+		vol: { up: vol-up, down: vol-down },
+		mute: { up: mute-up, down: mute-down },
+		
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Image: {
+		background: { drawable: background },
+                frogzan: { drawable: frogzan },
+	},
+}

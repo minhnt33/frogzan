@@ -1,0 +1,89 @@
+
+ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 103
+  size: 614, 819
+  orig: 614, 819
+  offset: 0, 0
+  index: -1
+frogzan
+  rotate: false
+  xy: 1, 1
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+leaderboard-down
+  rotate: false
+  xy: 617, 822
+  size: 143, 100
+  orig: 143, 100
+  offset: 0, 0
+  index: -1
+leaderboard-up
+  rotate: false
+  xy: 403, 1
+  size: 143, 100
+  orig: 143, 100
+  offset: 0, 0
+  index: -1
+play-down
+  rotate: false
+  xy: 617, 720
+  size: 143, 100
+  orig: 143, 100
+  offset: 0, 0
+  index: -1
+play-up
+  rotate: false
+  xy: 762, 822
+  size: 143, 100
+  orig: 143, 100
+  offset: 0, 0
+  index: -1
+rate-down
+  rotate: false
+  xy: 617, 618
+  size: 143, 100
+  orig: 143, 100
+  offset: 0, 0
+  index: -1
+rate-up
+  rotate: false
+  xy: 762, 720
+  size: 143, 100
+  orig: 143, 100
+  offset: 0, 0
+  index: -1
+mute-down
+  rotate: false
+  xy: 907, 815
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+mute-up
+  rotate: false
+  xy: 617, 509
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+vol-down
+  rotate: false
+  xy: 617, 400
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+vol-up
+  rotate: false
+  xy: 617, 291
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
